@@ -1,0 +1,12 @@
+.card-header {
+    background-color: rgb(140, 0, 255);
+
+}
+
+.card-header a {
+    color: #fff;
+}
+
+.card {
+    margin: 30px 0;
+}
